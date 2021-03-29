@@ -10,13 +10,13 @@
 npm:
 
 ```bash
-npm install wechat-emoji-parser -S
+npm install wechat-emoji-parser-lyh -S
 ```
 
 yarn:
 
 ```bash
-yarn add wechat-emoji-parser
+yarn add wechat-emoji-parser-lyh
 ```
 
 ## How to use（使用）

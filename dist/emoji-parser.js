@@ -297,7 +297,7 @@ var parseEmoji = (() => {
       hk: "",
       us: "",
       code: "\\ue412",
-      web_code: ""
+      web_code: "[Lol]"
     },
     {
       position: {x: 0, y: 2},
