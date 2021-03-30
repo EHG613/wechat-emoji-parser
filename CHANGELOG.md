@@ -1,3 +1,12 @@
+## [2.0.2](https://github.com/EHG613/wechat-emoji-parser/compare/v2.0.1...v2.0.2) (2021-03-30)
+
+
+### Features
+
+* 压缩输出的代码 ([7cd06db](https://github.com/EHG613/wechat-emoji-parser/commit/7cd06dbfddc42b2e55080b7bedcef37e323b2434))
+
+
+
 ## 2.0.1 (2021-03-29)
 
 
